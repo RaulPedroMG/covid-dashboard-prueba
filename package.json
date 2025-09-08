@@ -1,0 +1,31 @@
+{
+  "name": "covid-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard COVID-19 en Next.js + TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "nextjs",
+    "typescript",
+    "dashboard",
+    "covid"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.5.2",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "@types/react": "^18.2.62",
+    "@types/react-dom": "^18.2.19",
+    "typescript": "^5.4.5"
+  }
+}
